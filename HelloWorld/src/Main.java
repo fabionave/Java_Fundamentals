@@ -11,3 +11,11 @@ public class Main {
 		}		
 	}
 }
+
+//another solution
+/*
+for(int i=0; i< args.length; i++){
+	System.out.print(args[i] + ((i == args.length - 1)? "\n" : " "));	
+	// condição ? se for verdade : se for falso
+}
+*/
